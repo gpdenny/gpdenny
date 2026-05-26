@@ -37,8 +37,8 @@ When I’m not working, there’s a good chance I’m:
 
 ```text
 AWS • Terraform • Docker • Kubernetes • Python
-Go • Bash • GitHub Actions • Linux • Home Assistant
-Grafana • Prometheus • PostgreSQL • Serverless • Klipper
+Go • Bash • GitHub Actions • Linux • Home Assistant • FluxCD
+Datadog • Prometheus • PostgreSQL • Serverless • Klipper
 ```
 
 </td>
